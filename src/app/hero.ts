@@ -3,3 +3,5 @@ export class Hero {
     name: string = '' //Set name property to empty string
     
   }
+
+  
